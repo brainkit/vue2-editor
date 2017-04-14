@@ -12,7 +12,7 @@
 _You can use Yarn or NPM_
 
 ```bash
-$ npm install --save vue2-editor
+$ npm install --save vue2-quill-editor
 ```
 **OR**
 ```bash
@@ -22,7 +22,7 @@ yarn add vue2-editor
 # Usage
 
 ```javascript
-import { VueEditor } from 'vue2-editor'
+import { VueEditor } from 'vue2-quill-editor'
 
 //... your code
 ```
