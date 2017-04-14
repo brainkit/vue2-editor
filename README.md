@@ -50,7 +50,7 @@ editorToolbar | Array  | ** _Too long for table. See toolbar example below_ | Us
  </template>
 
  <script>
-   import { VueEditor } from 'vue2-editor'
+   import { VueEditor } from 'vue2-quill-editor'
 
    export default {
 
@@ -80,7 +80,7 @@ editorToolbar | Array  | ** _Too long for table. See toolbar example below_ | Us
 </template>
 
 <script>
-  import { VueEditor } from 'vue2-editor'
+  import { VueEditor } from 'vue2-quill-editor'
 
   export default {
     components: {
@@ -115,7 +115,7 @@ editorToolbar | Array  | ** _Too long for table. See toolbar example below_ | Us
 </template>
 
 <script>
-  import { VueEditor } from 'vue2-editor'
+  import { VueEditor } from 'vue2-quill-editor'
 
   export default {
     components: {
@@ -150,7 +150,7 @@ editorToolbar | Array  | ** _Too long for table. See toolbar example below_ | Us
 </template>
 
 <script>
-  import { VueEditor } from 'vue2-editor'
+  import { VueEditor } from 'vue2-quill-editor'
 
   export default {
     components: {
@@ -183,7 +183,7 @@ editorToolbar | Array  | ** _Too long for table. See toolbar example below_ | Us
 </template>
 
 <script>
-  import { VueEditor } from 'vue2-editor'
+  import { VueEditor } from 'vue2-quill-editor'
 
   export default {
     components: {
@@ -218,7 +218,7 @@ editorToolbar | Array  | ** _Too long for table. See toolbar example below_ | Us
 </template>
 
 <script>
-  import { VueEditor } from 'vue2-editor'
+  import { VueEditor } from 'vue2-quill-editor'
 
   components: {
     VueEditor
