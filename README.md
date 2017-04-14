@@ -16,7 +16,7 @@ $ npm install --save vue2-quill-editor
 ```
 **OR**
 ```bash
-yarn add vue2-editor
+yarn add vue2-quill-editor
 ```
 
 # Usage
